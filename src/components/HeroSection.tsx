@@ -20,7 +20,7 @@ function HeroSection() {
 
                 <p className="mt-2 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
                 Discover the intricacies of data structures and algorithms through our comprehensive courses. From fundamental concepts like arrays and linked lists to advanced techniques 
-                including dynamic programming and complexity analysis, we'll help you master the essentials. 
+                including dynamic programming and complexity analysis, we will help you master the essentials. 
                 
                 </p>
                 
