@@ -1,0 +1,105 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Data Structures Fundamentals",
+            "slug": "data-structures-fundamentals",
+            "description": "Learn the basics of data structures with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/data-structures.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Algorithms for Beginners",
+            "slug": "algorithms-for-beginners",
+            "description": "Start your coding journey with foundational algorithm skills taught by expert instructors.",
+            "price": 109.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "/courses/algorithms.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Advanced Algorithm Techniques",
+            "slug": "advanced-algorithm-techniques",
+            "description": "Enhance your programming with advanced algorithm techniques for intermediate to advanced learners.",
+            "price": 119.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image": "/courses/advanced-algorithms.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Mastering Data Structures",
+            "slug": "mastering-data-structures",
+            "description": "Master data structures with our comprehensive course covering all skill levels.",
+            "price": 129.99,
+            "instructor": "Mike Brown",
+            "isFeatured": false,
+            "image": "/courses/mastering-data-structures.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Graph Theory Essentials",
+            "slug": "graph-theory-essentials",
+            "description": "Learn the essentials of graph theory with this course designed for all levels.",
+            "price": 139.99,
+            "instructor": "Chris Davis",
+            "isFeatured": false,
+            "image": "/courses/graph-theory.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Algorithmic Problem Solving",
+            "slug": "algorithmic-problem-solving",
+            "description": "Dive into problem solving with this introductory course on algorithmic thinking.",
+            "price": 149.99,
+            "instructor": "Alex Wilson",
+            "isFeatured": true,
+            "image": "/courses/algorithmic-problem-solving.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "description": "Learn the essentials of dynamic programming to optimize your code.",
+            "price": 159.99,
+            "instructor": "Samantha Miller",
+            "isFeatured": false,
+            "image": "/courses/dynamic-programming.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Advanced Data Structures",
+            "slug": "advanced-data-structures",
+            "description": "Master advanced data structures with our course designed for intermediate to advanced users.",
+            "price": 169.99,
+            "instructor": "Luke Harris",
+            "isFeatured": true,
+            "image": "/courses/advanced-data-structures.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Theoretical Computer Science",
+            "slug": "theoretical-computer-science",
+           
+            "description": "Explore the rich theories of computer science from its foundations to modern advancements.",
+            "price": 179.99,
+            "instructor": "Grace Lee",
+            "isFeatured": false,
+            "image": "/courses/theoretical-cs.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Algorithm Optimization Techniques",
+            "slug": "algorithm-optimization-techniques",
+            "description": "Discover the techniques to optimize algorithms and enhance performance.",
+            "price": 189.99,
+            "instructor": "Ethan Moore",
+            "isFeatured": true,
+            "image": "/courses/algorithm-optimization.jpg"
+        }
+    ]
+}
